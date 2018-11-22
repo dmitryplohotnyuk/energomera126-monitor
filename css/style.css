@@ -1,0 +1,26 @@
+body {
+    background-color: #202020;
+    padding-top: 50px;
+}
+
+a, a:active, a:hover, a:visited, a:link {
+    text-decoration: none; 
+    color: white;
+}
+
+
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #4284D3;
+    color: white;
+}
+
+.panel > .panel-body {
+    background-image: none;
+    background-color: #250672;
+    color: white;
+}
+
+.panel-chart {
+    background-color: white;
+}
